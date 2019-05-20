@@ -1,2 +1,0 @@
-# MovieFinder
-Created with CodeSandbox
